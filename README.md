@@ -1,0 +1,48 @@
+# README.md
+
+## Release 18
+
+- [ts_123502v180800p](files/ts_123502v180800p.pdf)
+- [ts_124501v180900p](files/ts_124501v180900p.pdf)
+- [ts_129244v180800p](files/ts_129244v180800p.pdf)
+- [ts_129503v180800p](files/ts_129503v180800p.pdf)
+- [ts_129507v180700p](files/ts_129507v180700p.pdf)
+- [ts_129514v180800p](files/ts_129514v180800p.pdf)
+- [ts_129518v180800p](files/ts_129518v180800p.pdf)
+- [ts_129513v180800p](files/ts_129513v180800p.pdf)
+- [ts_133501v180800p](files/ts_133501v180800p.pdf)
+- [ts_138211v180500p](files/ts_138211v180500p.pdf)
+- [ts_138212v180500p](files/ts_138212v180500p.pdf)
+- [ts_138213v180500p](files/ts_138213v180500p.pdf)
+- [ts_138321v180400p](files/ts_138321v180400p.pdf)
+- [ts_138331v180400p](files/ts_138331v180400p.pdf)
+- [ts_138413v180400p](files/ts_138413v180400p.pdf)
+
+## Release 17
+
+- [ts_123501v170500p](files/ts_123501v170500p.pdf)
+- [ts_123502v171300p](files/ts_123502v171300p.pdf)
+- [ts_124501v171600p](files/ts_124501v171600p.pdf)
+- [ts_129244v171000p](files/ts_129244v171000p.pdf)
+- [ts_129503v171700p](files/ts_129503v171700p.pdf)
+- [ts_129518v171500p](files/ts_129518v171500p.pdf)
+- [ts_129510v170600p](files/ts_129510v170600p.pdf)
+- [ts_129513v171400p](files/ts_129513v171400p.pdf)
+- [ts_133501v170500p](files/ts_133501v170500p.pdf)
+- [ts_138213v171200p](files/ts_138213v171200p.pdf)
+- [ts_133501v171400p](files/ts_133501v171400p.pdf)
+- [ts_129507v171000p](files/ts_129507v171000p.pdf)
+- [ts_138211v171000p](files/ts_138211v171000p.pdf)
+- [ts_138413v171100p](files/ts_138413v171100p.pdf)
+- [ts_138331v171100p](files/ts_138331v171100p.pdf)
+- [ts_129514v171300p](files/ts_129514v171300p.pdf)
+- [ts_138212v171000p](files/ts_138212v171000p.pdf)
+- [ts_138321v171100p](files/ts_138321v171100p.pdf)
+
+## Release 16 and older
+
+- [ts_123502v160700p](files/ts_123502v160700p.pdf)
+- [ts_129510v150300p](files/ts_129510v150300p.pdf)
+- [ts_138413v150000p](files/ts_138413v150000p.pdf)
+- [ts_138413v150100p](files/ts_138413v150100p.pdf)
+- [ts_138413v160200p](files/ts_138413v160200p.pdf)
